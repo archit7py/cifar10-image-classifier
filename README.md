@@ -24,7 +24,7 @@ Install dependencies:
 pip install torch torchvision
 ```
 
-## How to Run
+## How to Run this 
 
 ```bash
 python cifar10classifier.py
