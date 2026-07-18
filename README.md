@@ -2,7 +2,7 @@
 
 A convolutional neural network built with PyTorch to classify images from the CIFAR-10 dataset into 10 categories: plane, car, bird, cat, deer, dog, frog, horse, ship, truck,etc
 
-## Overview
+## Overview Of this Classifier
 
 This project implements a CNN from scratch using PyTorch, trained on the CIFAR-10 dataset (60,000 32x32 color images across 10 classes). It covers the full pipeline: data loading, preprocessing, model definition, training, and evaluation.
 
