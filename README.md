@@ -1,4 +1,4 @@
-# CIFAR-10 Image Classifier
+# CIFAR-10 Image Classifiers
 
 A convolutional neural network built with PyTorch to classify images from the CIFAR-10 dataset into 10 categories: plane, car, bird, cat, deer, dog, frog, horse, ship, truck,etc
 
